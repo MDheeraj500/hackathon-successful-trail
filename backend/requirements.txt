@@ -1,0 +1,23 @@
+streamlit
+langchain
+# crewai
+# crewai-agents
+faiss-cpu
+python-dotenv
+openai
+transformers
+# crewai_tools
+load_dotenv
+langchain-huggingface
+langchain-groq
+pymupdf
+arxiv
+wikipedia
+# python-json>=0.2.1
+pypdf2
+langchain-community
+sentence-transformers
+tqdm
+
+
+
